@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity {
 
     private TextView mSearchResultsTextView;
 
-    // TODO (12) Create a variable to store a reference to the error message TextView
+    // TODO (12) Create a variable named mErrorMessageDisplay to store a reference to the error message TextView
 
     // TODO (24) Create a ProgressBar variable to store a reference to the ProgressBar
 
